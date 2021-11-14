@@ -1,2 +1,11 @@
 # big_screen
- 小白使用Bootstrap构建的简洁主题
+## 简介
+ 小白使用Bootstrap构建的简洁的Halo博客主题
+## 来源
+demo：https://whooc.com
+模版来自：bootstrapmade.com
+## 截图：
+![screenshot](https://cdn.jsdelivr.net/gh/whooc/halo-theme-big_screen/screenshot.png)
+## TIPS：
+首页背景大图 位于/big_screen/source/css/style.css 245行
+创建菜单需要配置图标，格式为括号内的(bx bx-XXX)，导航图标来自：boxicons.com
