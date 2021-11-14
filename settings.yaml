@@ -1,0 +1,160 @@
+settings:
+  label: 设置
+  items:
+    titletwo:
+      name: titletwo
+      label: 副标题
+      type: text
+      placeholder: '123'
+    beian:
+      name: beian
+      label: 备案号
+      type: text
+      placeholder: ''
+    footerx:
+      name: footerx
+      label: 底部信息
+      type: text
+      placeholder: ''
+    goal1:
+      name: goal1
+      label: 目标1
+      type: text
+      placeholder: '目标'
+    goal_p1:
+      name: goal_p1
+      label: 目标程度1
+      type: text
+      placeholder: '目标程度'
+    goal2:
+      name: goal2
+      label: 目标2
+      type: text
+      placeholder: '目标'
+    goal_p2:
+      name: goal_p2
+      label: 目标程度2
+      type: text
+      placeholder: '目标程度'
+    goal3:
+      name: goal3
+      label: 目标3
+      type: text
+      placeholder: '目标'
+    goal_p3:
+      name: goal_p3
+      label: 目标程度3
+      type: text
+      placeholder: '目标程度'
+    goal4:
+      name: goal4
+      label: 目标4
+      type: text
+      placeholder: '目标'
+    goal_p4:
+      name: goal_p4
+      label: 目标程度4
+      type: text
+      placeholder: '目标程度'
+information:
+  label: 个人信息
+  items:
+    motto:
+      name: motto
+      label: 格言
+      type: text
+      placeholder: ''
+    twitter:
+      name: twitter
+      label: twitter
+      type: text
+      placeholder: ''
+    facebook:
+      name: facebook
+      label: facebook
+      type: text
+      placeholder: ''
+    instagram:
+      name: instagram
+      label: instagram
+      type: text
+      placeholder: ''
+    skype:
+      name: skype
+      label: skype
+      type: text
+      placeholder: ''
+    linkedin:
+      name: linkedin
+      label: linkedin
+      type: text
+      placeholder: ''
+skills:
+  label: 目标
+  items:
+
+      
+skills:
+  label: 技能
+  items:
+    skill1:
+      name: skill1
+      label: 技能名字1
+      type: text
+      placeholder: '技能'
+    process1:
+      name: process1
+      label: 技能程度1
+      type: text
+      placeholder: '程度'
+    skill2:
+      name: skill2
+      label: 技能名字2
+      type: text
+      placeholder: '技能'
+    process2:
+      name: process2
+      label: 技能程度2
+      type: text
+      placeholder: '程度'
+    skill3:
+      name: skill3
+      label: 技能名字3
+      type: text
+      placeholder: '技能'
+    process3:
+      name: process3
+      label: 技能程度3
+      type: text
+      placeholder: '程度'
+    skill4:
+      name: skill4
+      label: 技能名字4
+      type: text
+      placeholder: '技能'
+    process4:
+      name: process4
+      label: 技能程度4
+      type: text
+      placeholder: '程度'
+    skill5:
+      name: skill5
+      label: 技能名字5
+      type: text
+      placeholder: '技能'
+    process5:
+      name: process5
+      label: 技能程度5
+      type: text
+      placeholder: '程度'
+    skill6:
+      name: skill6
+      label: 技能名字6
+      type: text
+      placeholder: '技能'
+    process6:
+      name: process6
+      label: 技能程度6
+      type: text
+      placeholder: '程度'
+      
