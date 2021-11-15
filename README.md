@@ -7,5 +7,7 @@ demo：https://whooc.com
 ## 截图：
 ![screenshot](https://cdn.jsdelivr.net/gh/whooc/halo-theme-big_screen/screenshot.png)
 ## TIPS：
-首页背景大图 位于/big_screen/source/css/style.css 245行
-创建菜单需要配置图标，格式为括号内的(bx bx-XXX)，导航图标来自：boxicons.com
+1.首页背景大图 位于/big_screen/source/css/style.css 245行
+2.创建菜单需要配置图标，格式为括号内的(bx bx-XXX)，导航图标来自：boxicons.com
+## 已知问题
+1.halo后台更新主题会导致文件损坏
